@@ -13,6 +13,8 @@ def get_result(values):
 
 
 def get_result_2(values):
+    # found out with changing function get_result
+    # in this place `point = (i * 1) % width`
     return 85 * 176 * 96 * 87 * 47
 
 
